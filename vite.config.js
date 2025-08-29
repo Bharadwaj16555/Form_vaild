@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: '/Myform/',  // Replace with your actual repo name
+  base: '/Form_vaild/',  // Replace with your actual repo name
   plugins: [react()],
 })
 
